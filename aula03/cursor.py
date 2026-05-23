@@ -1,5 +1,5 @@
 #Cria um arquivo exemplo e escreve nele
-with open("C:/Users/iagos/Documents/RAD/aula03/exemplo.txt", 'w', encoding='utf-8') as f:
+with open("exemplo.txt", 'w', encoding='utf-8') as f:
     f.write("Exemplo de uso dos metodos seek() e tell() em Python.")
 
 #Le o arquivo e usa seek() e tell()
